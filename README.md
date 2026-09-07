@@ -1,2 +1,18 @@
-# basilikos-marpissa-paros
-Website project for Basilikos Restaurant, Marpissa Paros
+# Βασιλικός Μάρπησσα
+
+## Στ. Επ.
+- Διεύθυνση: Επαρ. Οδ. Παροικιάς-Πίσω Λιβαδιού, Μάρπησσα 84400, Πάρος, Ελλάδα
+- Τηλέφωνο: 22840 45968 / 694 657 5711
+- Email: g.mouchtis@hotmail.com
+
+## Γιατί χρειάζεται το site
+Πολύ υψηλή αξιολόγηση και τουριστικό κοινό, αλλά περιορισμένη ιδιόκτητη online παρουσία· ένα σύγχρονο site μπορεί να μετατρέπει αναζητήσεις σε επισκέψεις.
+
+## Website quality
+No dedicated website found in current business listings
+
+## Lead score
+95/100
+
+## Τιμή site
+€250 (εφάπαξ)
